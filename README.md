@@ -18,8 +18,5 @@ TDSGBV-Desktop (or TDSGDE) is a compiled version of TDSGBV meant to run optimall
 - Borderless
 
 # Versions
-Versions | List
-:---: | :---:
-Project | Desktop
-v**2.35.3** | **Yes**
-v2.35.2- | No
+**1 version available**
+- v2.35.3
