@@ -10,7 +10,7 @@ TDSGBV-Desktop (or TDSGDE) is a compiled version of TDSGBV meant to run optimall
 - Instant load times
 - 240+ FPS
 - Less ping
-- TurboWarp Multiplayer
+- Custom Multiplayer server
 - Less lag
 - Custom cursors
 - True fullscreen
