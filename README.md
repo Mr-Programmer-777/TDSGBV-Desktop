@@ -1,8 +1,7 @@
 # TDSGBV-Desktop
 The desktop edition of TDSGBV, created by Vadik1.
 **Check Releases for downloads.**
-
-Original project: https://scratch.mit.edu/projects/469164737/
+[Original project](https://scratch.mit.edu/projects/469164737/ "View the original project")
 
 TDSGBV-Desktop (or TDSGDE) is a compiled version of TDSGBV meant to run optimally in your browser window.
 
@@ -11,9 +10,12 @@ TDSGBV-Desktop (or TDSGDE) is a compiled version of TDSGBV meant to run optimall
 - Instant load times
 - 240+ FPS
 - Less ping
-- Multiplayer (TurboWarp servers)
-- Faster and less laggy
+- TurboWarp Multiplayer
+- Less lag
 - Custom cursors
 - True fullscreen
 - Custom size
 - Borderless
+
+# Desktop checklist
+**Version checklist **
